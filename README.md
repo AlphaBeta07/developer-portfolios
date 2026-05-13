@@ -220,7 +220,7 @@ This repo can serve as inspiration for your portfolio!
 - [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
 - [Animesh Bhatt](https://animesh-bhatt.vercel.app) [Software Developer]
 - [Anish Biswas](https://anish7.me) [Full Stack Dev]
-- [Anish Biswas](https://anishlandage.fun) [Full Stack Developer]
+- [Anish Landage](https://anishlandage.fun) [Full Stack Developer]
 - [Anish Navalgund](https://anishknavalgund.vercel.app) [AI, Robotics and Automation]
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankit Jha](https://ankitjha.vercel.app) [MERN stack developer]
